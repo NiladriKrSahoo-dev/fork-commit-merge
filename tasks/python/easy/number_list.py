@@ -5,5 +5,5 @@
 # prints that list to the console and,
 # prints the sum of the numbers of that list
 
-def function(numbers):
-    pass
+for i in range(1,11):
+    print(i)
